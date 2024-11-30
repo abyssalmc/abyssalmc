@@ -5,7 +5,7 @@ i mainly post comp mc content on youtube, particularly clutching and fruitbridgi
 
 ---
 ### abyssalmc mod collection
-**clutch mod: [Clutch](https://youtube.com/@AbyssalMC) | fruitbridge mod: [Fruitbridge](https://youtube.com/@AbyssalMC)**
+**clutch mod: [Clutch](https://modrinth.com/mod/clutch) | fruitbridge mod: [Fruitbridge](https://modrinth.com/mod/fruitbridge)**
 
 ![mod icons](https://cdn.modrinth.com/data/cached_images/197d5c6f95a597fe02c381bc8564e1850fab5d10.png)
 
