@@ -1,16 +1,20 @@
-## Hi there 👋
+## ello i'm abyssal, pleasure to meet you (u probably know me already)👋  
 
-<!--
-**abyssalmc/abyssalmc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i mainly post comp mc content on youtube, particularly clutching and fruitbridging. these modes are missing a lot, so i decided to make utility mods for them! feel free to check them out here or on my modrinth page! discord: @abyssxl  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Socials
+- **Youtube [AbyssalMC](https://youtube.com/@AbyssalMC)**
+- **Twitter [Abyssal_MC](https://x.com/@Abyssal_MC)**
+- **Modrinth [abyssalmc](https://modrinth.com/user/abyssal_mc)**
+
+---
+
+### Mods  
+- **Clutch page: [Clutch](https://modrinth.com/mod/clutch)**
+- **Fruitbridge page [Fruitbridge](https://modrinth.com/mod/fruitbridge)**
+
+---
+
+[![Mods I've made](https://cdn.modrinth.com/data/cached_images/278cd09fa68be674124290901de216d59f346027.png)](mods)
