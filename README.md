@@ -4,17 +4,12 @@ i mainly post comp mc content on youtube, particularly clutching and fruitbridgi
 
 ---
 
+[![Mods I've made](https://cdn.modrinth.com/data/cached_images/278cd09fa68be674124290901de216d59f346027.png)](mods)
+
+---
+
 ### Socials
 - **Youtube [AbyssalMC](https://youtube.com/@AbyssalMC)**
 - **Twitter [Abyssal_MC](https://x.com/@Abyssal_MC)**
 - **Modrinth [abyssalmc](https://modrinth.com/user/abyssal_mc)**
 
----
-
-### Mods  
-- **Clutch page: [Clutch](https://modrinth.com/mod/clutch)**
-- **Fruitbridge page [Fruitbridge](https://modrinth.com/mod/fruitbridge)**
-
----
-
-[![Mods I've made](https://cdn.modrinth.com/data/cached_images/278cd09fa68be674124290901de216d59f346027.png)](mods)
