@@ -1,4 +1,5 @@
-## ello nice to meet you (we probably know each other)👋  
+## nice to meet you! (we probably know each other) 👋  
+
 
 i mainly post comp mc content on youtube, particularly clutching and fruitbridging. these modes are missing a lot, so i decided to make utility mods for them! feel free to check them out here or on my modrinth page!
 
