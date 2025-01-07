@@ -12,5 +12,5 @@ i mainly post comp mc content on youtube, particularly clutching and fruitbridgi
 ---
 
 ### stalk abyssalmc here
-**youtube:** [AbyssalMC](https://youtube.com/@AbyssalMC) | **twitter:** [Abyssal_MC](https://x.com/@Abyssal_MC) | **modrinth:** [abyssalmc](https://modrinth.com/user/abyssal_mc) | **discord:** [abyssxl](https://discordapp.com/users/853472808696938516)
+**youtube:** [AbyssalMC](https://youtube.com/@AbyssalMC) | **twitter:** [Abyssal_MC](https://x.com/@Abyssal_MC) | **modrinth:** [abyssalmc](https://modrinth.com/user/abyssal_mc) | **discord:** [abyssalmc](https://discordapp.com/users/853472808696938516)
 
